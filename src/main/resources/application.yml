@@ -1,0 +1,2 @@
+##logging:
+  ###可选：默认配置logback-spring.xml
